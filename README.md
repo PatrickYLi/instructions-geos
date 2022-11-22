@@ -232,7 +232,7 @@ dependencies:
 
 Save (Ctrl+o, enter, Ctrl+X) and then run:
 ```
-conda env create -f python_req.yml 
+conda env create -f geos_python_req.yml 
 ```
 This will create a python environment called _geos-python-env_. Activate it
 ```
