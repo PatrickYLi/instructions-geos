@@ -356,7 +356,7 @@ You need to understand what we are doing here, so:
 GCGRID_ROOT is the full path to where the DATA for your simulation is (Meteorological data, etc). Even if you don't have the data yet, just create the appropiate directories / folders.
 
 CODE_DIR is where the _source code_ of GEOS Chem is.
-UNITE_TEST_ROOT is where the Unit Test code lives.
+UNIT_TEST_ROOT is where the Unit Test code lives.
 And COPY_PATH is where the script will output the _run directory_
 
 While we are here, you need to also create the following structure under your 
